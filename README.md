@@ -6,10 +6,8 @@ Soy un **Programador _Fullstack_**.
 Desde siempre estube desidido a estudiar informatica,si bien inicie en la secundaria a programar con Pascal , C y C++ , cuando conoci Javascript quede enamorado del lenguaje.
 En la actualidad me dedico exclusivamente a la programacion Wed , busco mantener el equilibro entre mis estudio universitarios y el trabajo.
 
-## ¿Qué tecnologías uso?
-El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental
-para despegar 🚀 
-Por lo que las principales tecnologías que manejo son: 
+## ¿Qué tecnologías uso? 
+Las principales tecnologías que manejo son: 
 <p>
   FrontEnd: React | Redux | ReactNative | CSS  <br>
   BackEnd: Node | Express | JavaScript <br>
