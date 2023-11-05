@@ -3,8 +3,8 @@
 
 ## ¿Quién soy? 
 Soy un **Programador _Fullstack_**.
-Desde siempre estube desidido a estudiar informatica,si bien inicie en la secundaria a programar con Pascal , C y C++ , cuando conoci Javascript quede enamorado del lenguaje.
-En la actualidad me dedico exclusivamente a la programacion Wed , busco mantener el equilibro entre mis estudio universitarios y el trabajo.
+ Desde siempre estuve decidido a estudiar informática. Si bien comencé en la secundaria a programar con Pascal, C y C++, cuando conocí JavaScript quedé enamorado del lenguaje. 
+ En la actualidad me dedico exclusivamente a la programación web, buscando mantener el equilibrio entre mis estudios universitarios y el trabajo.
 
 ## ¿Qué tecnologías uso? 
 Las principales tecnologías que manejo son: 
