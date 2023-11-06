@@ -6,6 +6,13 @@ Soy un **Programador _Fullstack_**.
  Desde siempre estuve decidido a estudiar informática. Si bien comencé en la secundaria a programar con Pascal, C y C++, cuando conocí JavaScript quedé enamorado del lenguaje. 
  En la actualidad me dedico exclusivamente a la programación web, buscando mantener el equilibrio entre mis estudios universitarios y el trabajo.
 
+ ## Experiencia
+Llevé a cabo una aplicación web interactiva con temática de Perros utilizando muchas tecnologías (repositorio anclado)
+
+También tengo el orgullo de haber formado parte de un talentoso equipo que contribuyó al desarrollo de una aplicación web para la empresa "Zucca - Hábitos Nutricionales". Esta experiencia me permitió aplicar mis habilidades en el mundo real y participar en la creación de una solución que promueve hábitos nutricionales saludables.
+
+Además de mi experiencia en desarrollo, disfruto aprendiendo continuamente y manteniéndome al tanto de las últimas tendencias tecnológicas. Mi objetivo es seguir contribuyendo al mundo del desarrollo de software y colaborar en proyectos emocionantes.
+
 ## ¿Qué tecnologías uso? 
 Las principales tecnologías que manejo son: 
 <p>
