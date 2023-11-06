@@ -60,6 +60,13 @@ Las principales tecnologías que manejo son:
   </tr>
 </table>
 
+## Contacto
+¡No dudes en contactarme si estás interesado en colaborar en un proyecto o si tienes alguna pregunta!
+
+Linkedin:www.linkedin.com/in/franco-david-corvalan
+
+Email:francorvalan52@gmail.com
+
 </div>
 
 
