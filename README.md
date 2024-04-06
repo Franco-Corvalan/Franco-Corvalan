@@ -2,9 +2,8 @@
 <h1 align="center">Hola! 👋, Mi nombre es Franco Corvalan</h1>
 
 ## ¿Quién soy? 
-Soy un **Programador _Fullstack_**.
- Desde siempre estuve decidido a estudiar informática. Si bien comencé en la secundaria a programar con Pascal, C y C++, cuando conocí JavaScript quedé enamorado del lenguaje. 
- En la actualidad me dedico exclusivamente a la programación web, buscando mantener el equilibrio entre mis estudios universitarios y el trabajo.
+Soy un Full Stack Developer con una formación adicional como Diseñador Web. Mi carrera me ha brindado una sólida experiencia en una amplia gama de tecnologías, incluyendo React, Redux, Node.js, SQL y muchas otras. Mis habilidades abarcan tanto el desarrollo en el lado del servidor (Backend) como en el lado del cliente (Frontend), lo que me permite aportar una perspectiva completa a los proyectos en los que participo.
+Me caracterizo por mi constancia, responsabilidad y proactividad. Estoy comprometido con el aprendizaje continuo y puedo adaptarme rápidamente a las nuevas tecnologías y desafíos. Además, tengo habilidades sólidas que me permiten liderar equipos y trabajar eficazmente bajo presión.
 
  ## Experiencia
 Llevé a cabo una aplicación web interactiva con temática de Perros utilizando muchas tecnologías (repositorio anclado)
